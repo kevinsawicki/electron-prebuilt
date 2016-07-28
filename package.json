@@ -1,6 +1,6 @@
 {
   "name": "electron-kevinsawicki-testing",
-  "version": "100.200.304",
+  "version": "100.200.305",
   "description": "Install electron prebuilt binaries for the command-line use using npm",
   "repository": {
     "type": "git",
